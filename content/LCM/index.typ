@@ -11,4 +11,4 @@
 
 The model is given in @lcm-univariate.
 
-$ y_{i t}=alpha_{y_{i}}+lambda_{t}beta_{y_{i}}+epsilon_{y_{i t}} $ <lcm-univariate>
+$ y_(i t)=alpha_(y_i)+lambda_t beta_(y_i)+epsilon_(y_(i t)) $ <lcm-univariate>
